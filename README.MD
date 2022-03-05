@@ -41,6 +41,8 @@ Discord require a fix to enable Noise Suppression and Watch Live/Share Screen,
 - to solve this, watch this video after 4:10 : https://youtu.be/odYcvq-iTGg?t=250 (PT-BR)
 
 # References
+https://youtu.be/Oq2dfKEY9OQ (PT-BR)
+<br>
 https://github.com/luchina-gabriel/BASE-EFI-AMD-RYZEN-THREADRIPPER
 <br>
 https://dortania.github.io/OpenCore-Install-Guide/AMD/zen.html
